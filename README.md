@@ -40,5 +40,5 @@ In reverse chronological order...
 
 #### Tracking Moving Devices with the Cricket Location System (2004)
 * Class: None, this was a Mobisys 2004 paper I was lead author on
-* Description: How does one design the state estimation algorithms for an indoor tracking system?  What architectures are possible and which are best?
+* Description: How does one design the state estimation algorithms for an indoor tracking system?  What architectures are possible and which are best?  (This conference had a 14% acceptance rate.  The paper was awarded the annual MIT EECS Award for Best Undergraduate Computer Science Research.)
 * Notes: I open sourced the code and data behind the paper [here](https://github.com/adamsmith/indoor-tracking).
