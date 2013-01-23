@@ -1,6 +1,3 @@
-college-papers
-==============
-
 In reverse chronological order...
 
 
